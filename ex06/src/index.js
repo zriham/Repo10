@@ -14,5 +14,5 @@ lion[propName] = propValue;
 return lion;
 // Only change code above this line
 }
-console.log(myFunction("roar", "roar.roar")); // Change this line
+console.log(myFunction("roar", "roar-roar")); // Change this line
 module.exports = myFunction;

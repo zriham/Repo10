@@ -5,9 +5,9 @@ var myPet = {
     legs: 4,
     friends: "Mujo Suljo"
 }
-function myFnction(myObj){
+function myFunction(myObj){
     return myObj;
 }
 // Only change code above this line
-console.log(myFnction(myPet)); // Change this line
-module.exports = {myPet, myFnction};
+console.log(myFunction(myPet)); // Change this line
+module.exports = {myPet, myFunction};
